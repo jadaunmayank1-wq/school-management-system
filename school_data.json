@@ -1,0 +1,23 @@
+{
+  "settings": {
+    "school_name": "My School",
+    "open_time": "08:00",
+    "close_time": "14:00",
+    "period_minutes": 40,
+    "break_after_period": 4,
+    "break_minutes": 20
+  },
+  "students": {
+    "S001": {
+      "name": "Manish",
+      "class": "2",
+      "roll": 33,
+      "parent": "kapil",
+      "phone": "923489883"
+    }
+  },
+  "teachers": {},
+  "subjects": [],
+  "timetable": {},
+  "attendance": {}
+}
